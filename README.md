@@ -23,6 +23,12 @@
 
 - <b>Nessus Vulnerability Management</b>
 
+<h2>Certifications</h2>
+
+- <b>Security+</b>
+- <b>Network+ (Expected by Aug 24, 2023)</b>
+- <b>AWS Cloud Practicioner</b>
+
 <!--
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
