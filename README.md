@@ -27,7 +27,7 @@
 
 - <b>CompTIA Security+</b>
 - <b>CompTIA Network+ (Expected by Aug 24, 2023)</b>
-- <b>AWS Cloud Practicioner</b>
+- <b>AWS Certified Cloud Practicioner</b>
 
 <!--
 - <b>Azure / Cloud Projects</b>
