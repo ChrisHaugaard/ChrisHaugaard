@@ -7,13 +7,13 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory w/ 1,000 simulated users</b>
-  - [Active Directory environment in Virtualbox + Powershell](https://github.com/taco2442/ActiveDirectory-1K_Users)
+  - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
  
 - <b>Service Desk lab tutorial</b>
-  - [Creating a Service Desk lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
+  - [Creating a Service Desk lab using Windows server 2016](https://github.com/ChrisHaugaard/ServiceDesk-Lab)
  
 - <b>Common IT support Problems</b>
-  - [IT common problems and solutions](https://github.com/taco2442/Common_IT)
+  - [IT common problems and solutions](https://github.com/ChrisHaugaard/Common_IT)
 
 <h2>:computer: Programming Projects:</h2>
 
