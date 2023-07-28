@@ -22,6 +22,7 @@
 <h2>:closed_lock_with_key: Security Projects:</h2>
 
 - <b>Nessus Vulnerability Management</b>
+  - [Using Nessus to implement security controls](https://github.com/ChrisHaugaard/NessusVM)
 
 <h2>Certifications</h2>
 
