@@ -27,7 +27,7 @@
 <h2>Certifications</h2>
 
 - <b>CompTIA Security+</b>
-- <b>CompTIA Network+ (Expected by Aug 24, 2023)</b>
+- <b>CompTIA Network+ (Expected by Sep 5, 2023)</b>
 - <b>AWS Certified Cloud Practicioner</b>
 
 <!--
@@ -42,23 +42,27 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2>  Connect with me:</h2>
-
-[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
 -->
+<h2>  Connect with me:</h2>
+
+[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][Indeed]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/
+[indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
+[linkedin]: https://linkedin.com/in/christian-haugaard-3760b1274
+
 <br></br>
  :smiley: What I am up to:
 - :office: Applying to Help/Service desk jobs
 
-- :pencil2: I’m currently working on submitting more projects to github including Helpdesk, Cybersecurity and Programming Labs
+- :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming Labs
 
 - :book: I’m currently learning Network+ and NIMS (ICS-100)
 <!--
