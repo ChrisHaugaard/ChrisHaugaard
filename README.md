@@ -60,14 +60,16 @@
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt=" | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][Indeed]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCXa9rFVFGH0gRZu9Gslh8Nw
-[indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 [linkedin]: https://linkedin.com/in/christian-haugaard-3760b1274
 
 <!--
+
+
+[<img align="left" alt=" | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][Indeed]
+[indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 -  I’m looking to collaborate on ...
 -  I’m looking for help with ...
 -  Ask me about ...
