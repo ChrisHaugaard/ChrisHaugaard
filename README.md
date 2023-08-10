@@ -48,6 +48,15 @@
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
 -->
+
+<br></br>
+ :smiley: What I am up to:
+- :office: Applying to Help/Service desk jobs
+
+- :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming Labs
+
+- :book: I’m currently learning Network+ and NIMS (ICS-100)
+
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -58,13 +67,6 @@
 [indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 [linkedin]: https://linkedin.com/in/christian-haugaard-3760b1274
 
-<br></br>
- :smiley: What I am up to:
-- :office: Applying to Help/Service desk jobs
-
-- :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming Labs
-
-- :book: I’m currently learning Network+ and NIMS (ICS-100)
 <!--
 -  I’m looking to collaborate on ...
 -  I’m looking for help with ...
