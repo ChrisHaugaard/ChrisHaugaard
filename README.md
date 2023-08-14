@@ -63,7 +63,7 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCXa9rFVFGH0gRZu9Gslh8Nw
-[linkedin]: https://linkedin.com/in/christian-haugaard-3760b1274
+[linkedin]: https://www.linkedin.com/in/chris-haugaard-3760b1274/
 
 <!--
 
