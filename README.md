@@ -27,7 +27,7 @@
 <h2>Certifications</h2>
 
 - <b>CompTIA Security+</b>
-- <b>CompTIA Network+ (Expected by Sep 5, 2023)</b>
+- <b>CompTIA Network+ (Expected by Sep 18, 2023)</b>
 - <b>AWS Certified Cloud Practicioner</b>
 
 <!--
