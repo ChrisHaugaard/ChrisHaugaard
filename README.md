@@ -24,6 +24,7 @@
 - <b>Vulnerability Management</b>
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
 
+
 <h2>Certifications</h2>
 
 - <b>CompTIA Security+</b>
