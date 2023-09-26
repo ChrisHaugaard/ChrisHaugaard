@@ -21,7 +21,7 @@
 
 <h2>:closed_lock_with_key: Security Projects:</h2>
 
-- <b>Vulnerability Management</b>
+- <b>Nessus Vulnerability Management</b>
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
 
 - <b>Azure Honeynet</b>
