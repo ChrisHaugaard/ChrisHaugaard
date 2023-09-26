@@ -24,6 +24,8 @@
 - <b>Vulnerability Management</b>
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
 
+- <b>Azure Honeynet</b>
+  - [Creating an unsecure Honeynet and securing it in Azure](https://github.com/ChrisHaugaard/Azure-Honeynet)
 
 <h2>Certifications</h2>
 
