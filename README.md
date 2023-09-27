@@ -15,6 +15,11 @@
 - <b>Common IT support Problems</b>
   - [IT common problems and solutions](https://github.com/ChrisHaugaard/Common_IT)
 
+
+<!--
+- <b>Azure SOC</b>
+  - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/Azure-SOC)
+-->
 <h2>:computer: Programming Projects:</h2>
 
 - <b>Port Scanner - Python</b>
@@ -26,6 +31,11 @@
 
 - <b>Azure Honeynet</b>
   - [Creating an unsecure Honeynet and securing it in Azure](https://github.com/ChrisHaugaard/Azure-Honeynet)
+<!--
+- <b>Security Controls NIST 800-53</b>
+  - [Applying NIST 800-53 R5 Security Controls to an environment](https://github.com/ChrisHaugaard/NIST-800-53)
+-->
+
 
 <h2>Certifications</h2>
 
