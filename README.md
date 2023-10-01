@@ -20,12 +20,12 @@
 
 - <b>IncidentResponse_SOC</b>
   - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/IncidentResponse_SOC)
--->
+
 
 <h2>:computer: Programming Projects:</h2>
 
 - <b>Port Scanner - Python</b>
-
+-->
 
 <h2>:iphone: IT Projects:</h2>
 
