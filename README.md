@@ -15,8 +15,8 @@
 - <b>Security Controls NIST 800-53</b>
   - [Applying NIST 800-53 R5 Security Controls to an environment](https://github.com/ChrisHaugaard/NIST-800-53)
 
-- <b>Azure SOC</b>
-  - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/Azure-SOC)
+- <b>IncidentResponse_SOC</b>
+  - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/IncidentResponse_SOC)
 -->
 
 <h2>:computer: Programming Projects:</h2>
