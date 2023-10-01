@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! Aspiring Cybersecurity Proffesional   </h1>
+<h1>Hi, I'm Chris! Cybersecurity Proffesional   </h1>
 
 <!--
 <br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
