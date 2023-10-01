@@ -11,6 +11,9 @@
 
 - <b>Azure Honeynet</b>
   - [Creating an unsecure Honeynet and securing it in Azure](https://github.com/ChrisHaugaard/Azure-Honeynet)
+ 
+- <b>OpenVAS Vulnerability Remediation</b>
+  - [Using OpenVAS to scan for and remediate vulnerabilities](https://github.com/ChrisHaugaard/OpenVAS)
 <!--
 - <b>Security Controls NIST 800-53</b>
   - [Applying NIST 800-53 R5 Security Controls to an environment](https://github.com/ChrisHaugaard/NIST-800-53)
