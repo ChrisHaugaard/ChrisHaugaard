@@ -4,26 +4,6 @@
 <br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
 -->
 
-<h2>👨‍💻 IT Projects:</h2>
-
-- <b>Active Directory w/ 1,000 simulated users</b>
-  - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
- 
-- <b>Service Desk lab tutorial</b>
-  - [Creating a Service Desk lab using Windows server 2016](https://github.com/ChrisHaugaard/ServiceDesk-Lab)
- 
-- <b>Common IT support Problems</b>
-  - [IT common problems and solutions](https://github.com/ChrisHaugaard/Common_IT)
-
-
-<!--
-- <b>Azure SOC</b>
-  - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/Azure-SOC)
--->
-<h2>:computer: Programming Projects:</h2>
-
-- <b>Port Scanner - Python</b>
-
 <h2>:closed_lock_with_key: Security Projects:</h2>
 
 - <b>Nessus Vulnerability Management</b>
@@ -36,6 +16,26 @@
   - [Applying NIST 800-53 R5 Security Controls to an environment](https://github.com/ChrisHaugaard/NIST-800-53)
 -->
 
+
+<!--
+- <b>Azure SOC</b>
+  - [Working incidents in Azure according to NIST 800-61 IML](https://github.com/ChrisHaugaard/Azure-SOC)
+-->
+<h2>:computer: Programming Projects:</h2>
+
+- <b>Port Scanner - Python</b>
+
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Active Directory w/ 1,000 simulated users</b>
+  - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
+ 
+- <b>Service Desk lab tutorial</b>
+  - [Creating a Service Desk lab using Windows server 2016](https://github.com/ChrisHaugaard/ServiceDesk-Lab)
+ 
+- <b>Common IT support Problems</b>
+  - [IT common problems and solutions](https://github.com/ChrisHaugaard/Common_IT)
 
 <h2>Certifications</h2>
 
