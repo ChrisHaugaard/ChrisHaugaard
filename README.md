@@ -4,7 +4,7 @@
 <br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
 -->
 
-<h2>:closed_lock_with_key: Security Projects:</h2>
+<h2>:lock: Security Projects:</h2>
 
 - <b>Nessus Vulnerability Management</b>
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
@@ -26,7 +26,7 @@
 - <b>Port Scanner - Python</b>
 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>:iphone: IT Projects:</h2>
 
 - <b>Active Directory w/ 1,000 simulated users</b>
   - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
