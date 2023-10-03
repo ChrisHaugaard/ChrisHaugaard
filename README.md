@@ -10,7 +10,7 @@
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
 
 - <b>Azure Honeynet</b>
-  - [Creating an unsecure Honeynet and securing it in Azure](https://github.com/ChrisHaugaard/Azure-Honeynet)
+  - [Creating a SOC/Honeynet and securing it in Azure](https://github.com/ChrisHaugaard/Azure-Honeynet)
  
 - <b>OpenVAS Vulnerability Remediation</b>
   - [Using OpenVAS to scan for and remediate vulnerabilities](https://github.com/ChrisHaugaard/OpenVAS)
