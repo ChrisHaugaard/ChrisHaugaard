@@ -41,8 +41,12 @@
 <h2>Certifications</h2>
 
 - <b>CompTIA Security+</b>
-- <b>CompTIA Network+ (Expected by Oct 20, 2023)</b>
+- <b>Cybersecurity Masterclass: SOC Analyst</b>
 - <b>AWS Certified Cloud Practicioner</b>
+
+<!--
+<b>CompTIA Network+ (Expected by Oct 20, 2023)</b>
+-->
 
 <!--
 - <b>Azure / Cloud Projects</b>
