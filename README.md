@@ -4,7 +4,7 @@
 <br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
 -->
 
-<h2>:lock: Security Projects:</h2>
+<h2>Security Projects:</h2>
 
 - <b>Nessus Vulnerability Management</b>
   - [Using Nessus Essentials Vulnerability Scanner to remediate vulnerabilities](https://github.com/ChrisHaugaard/NessusVM)
@@ -27,7 +27,7 @@
 - <b>Port Scanner - Python</b>
 -->
 
-<h2>:iphone: IT Projects:</h2>
+<h2>IT Projects:</h2>
 
 - <b>Active Directory w/ 1,000 simulated users</b>
   - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
@@ -73,12 +73,11 @@
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 
-<br></br>
- :smiley: What I am up to:
+What I am up to:
 
-- :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming Labs
+- :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming projects
 
-- :book: I’m currently learning Network+ and NIMS (ICS-100)
+- :book: I’m currently learning CCNA and Qualys vulnerability management certifications
 
 <h2>  Connect with me:</h2>
 
