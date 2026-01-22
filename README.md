@@ -31,12 +31,13 @@
 
 - <b>Active Directory w/ 1,000 simulated users</b>
   - [Active Directory environment in Virtualbox + Powershell](https://github.com/ChrisHaugaard/ActiveDirectory-1K_Users)
- 
+ <!--
 - <b>Service Desk lab tutorial</b>
   - [Creating a Service Desk lab using Windows server 2016](https://github.com/ChrisHaugaard/ServiceDesk-Lab)
  
 - <b>Common IT support Problems</b>
   - [IT common problems and solutions](https://github.com/ChrisHaugaard/Common_IT)
+-->
 
 <h2>Certifications</h2>
 
