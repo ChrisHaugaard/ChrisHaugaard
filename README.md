@@ -73,7 +73,7 @@
 
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-
+<!--
 What I am up to:
 
 - :pencil2: I’m currently working on submitting more projects to github including IT, Cybersecurity and Programming projects
@@ -83,7 +83,7 @@ What I am up to:
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+-->
 
 [linkedin]: https://www.linkedin.com/in/chris-haugaard-3760b1274/
 
